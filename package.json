@@ -1,0 +1,10 @@
+{
+  "name": "aws",
+  "version": "v1.17.3",
+  "description": "nd",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
